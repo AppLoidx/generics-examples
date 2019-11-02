@@ -12,8 +12,8 @@ public class ArrayListWithGenerics {
         list.add("Something string");
         // list.add(new HashMap());     we can't do this
 
-        for (String s: list
-             ) {
+        for (String s: list) {
+
             // We don't need to cast variable
             // see ArrayListWithoutGenerics.java
 
